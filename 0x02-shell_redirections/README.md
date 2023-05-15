@@ -1,0 +1,1 @@
+redirection, standard I/O
